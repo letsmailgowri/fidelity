@@ -1,3 +1,2 @@
 Hello Gowri...
 print("Hello")
-print("master")
